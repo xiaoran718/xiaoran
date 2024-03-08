@@ -3,7 +3,7 @@
 {"key":"南瓜","name":"🎃┃南瓜┃App","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_WoGG","name":"😈玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,
 "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
-{"key":"drpy_js_影探","name":"👹┃影探┃App","type":3,"api":"https://raw.cachefly.998111.xyz/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://u.kstore.space/download/3029/YsBox/js4/影探V2.js"},
+{"key":"drpy_js_影探","name":"👹┃影探┃App","type":3,"api":"https://raw.cachefly.998111.xyz/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://u.kstore.space/download/3029/YsBox/js4/影探V2.js" },
 {"key":"小胡","name":"👾┃小胡┃4K","type":1,"playerType":1,"api":"http://cc.xzam.cn/api.php/provide/vod/","jar":"http://xiaohu.xzam.cn/jar/1.jar;md5;9a9c3fffc0b2d762f1373a63c6d46fec"},
 {"key":"厂长弹幕","name":"👨‍🍳┃厂长┃弹幕","type":3,"api":"csp_Czzy","searchable":1,"changeable":1,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/CZ.txt","ext":"https://www.czzy55.com/@@一个分享者" },
 {"key":"横版影院", "name":"🍟短剧┃一网", "type":1, "api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable":1, "quickSearch":1, "filterable":1, "categories":["短剧"], "jar": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/jar.php?id=ou;md5;9ea1375c4736da2b76f3f1296f6b276b" }, 
