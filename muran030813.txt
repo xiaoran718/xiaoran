@@ -37,8 +37,6 @@
 {"key":"gszy","name":"🎥┃光速┃资源","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"filterable":0,"categories":["欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
 {"key":"lzzy","name":"🎥┃量子┃资源","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"filterable":0,"categories":["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
 {"key":"snzy","name":"🎥┃索尼┃资源","type":1,"api":"https://suoniapi.com/api.php/provide/vod/","searchable":1,"filterable":0,"categories":["欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
-{"key":"drpy_js_310直播","name":"⚽310直播","type":3,"api":"https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},
-"ext":"https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/js/310直播.js"},
 {"key":"MV_vod","name":"⚡┃明星┃MV","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
 "searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/MTV.json"},
 {"key":"相声小品","name":"😍┃相声┃小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"ext":"http://tt.iitvba.com/js/相声小品.json"},
