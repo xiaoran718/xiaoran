@@ -1,9 +1,9 @@
 {
 "sites":[
 {"key":"南瓜","name":"🎃┃南瓜┃App","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"玩偶哥哥","name":"👽玩偶哥哥","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:55/lib/玩偶哥哥.json","jar":"http://rihou.vip:55/lib/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949"},
-{"key":"csp_WoGG","name":"😈玩偶姐姐","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,
+{"key":"csp_WoGG","name":"😈玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,
 "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
+{"key":"玩我哥哥","name":"🥵┃玩我┃哥哥","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:55/lib/玩我哥哥.json","jar":"http://rihou.vip:55/lib/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949"},
 {"key":"drpy_js_影探","name":"👹┃影探┃App","type":3,"api":"https://raw.cachefly.998111.xyz/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://u.kstore.space/download/3029/YsBox/js4/影探V2.js"},
 {"key":"厂长弹幕","name":"👨‍🍳┃厂长┃弹幕","type":3,"api":"csp_Czzy","searchable":1,"changeable":1,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/CZ.txt","ext":"https://www.czzy55.com/@@一个分享者" },
 {"key":"横版影院", "name":"🍟短剧┃一网", "type":1, "api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable":1, "quickSearch":1, "filterable":1, "categories":["短剧"], "jar": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/jar.php?id=ou;md5;9ea1375c4736da2b76f3f1296f6b276b" }, 
@@ -40,7 +40,6 @@
 {"key":"MV_vod","name":"⚡┃明星┃MV","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
 "searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/MTV.json"},
 {"key":"相声小品","name":"😍┃相声┃小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"ext":"http://tt.iitvba.com/js/相声小品.json"},
-{"key":"玩我哥哥","name":"😇┃玩我┃哥哥","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:55/lib/玩我哥哥.json","jar":"http://rihou.vip:55/lib/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949"},
 {"key":"PanSou","name":"🦊┃盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 {"key":"UpYun","name":"😻┃Up搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 {"key":"PanSearch","name":"🙀┃盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
