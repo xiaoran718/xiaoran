@@ -1,11 +1,11 @@
 {
 "sites":[
 {"key":"南瓜","name":"🎃┃南瓜┃App","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_WoGG","name":"😈玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,
+{"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,
 "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
-{"key":"小胡","name":"👾┃小胡┃4K","type":1,"playerType":1,"api":"http://cc.xzam.cn/api.php/provide/vod/","jar":"http://xiaohu.xzam.cn/jar/1.jar;md5;9a9c3fffc0b2d762f1373a63c6d46fec"},
-{"key":"Fangniu4k","name":"👹┃放牛┃App","type":3,"api":"csp_Fangniu4k","searchable":1,"changeable":1,"jar":"https://github.com/xiaoran718/xiaoran/raw/main/myyt.jar"},
-{"key":"厂长弹幕","name":"👨‍🍳┃厂长┃弹幕","type":3,"api":"csp_Czzy","searchable":1,"changeable":1,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/CZ.txt","ext":"https://www.czzy55.com/@@一个分享者" },
+{"key":"Fangniu4k","name":"😈┃放牛┃App","type":3,"api":"csp_Fangniu4k","searchable":1,"changeable":1,"jar":"https://github.com/xiaoran718/xiaoran/raw/main/myyt.jar"},
+{"key":"小胡","name":"👹┃小胡┃4K","type":1,"playerType":1,"api":"http://cc.xzam.cn/api.php/provide/vod/","jar":"http://xiaohu.xzam.cn/jar/1.jar;md5;9a9c3fffc0b2d762f1373a63c6d46fec"},
+{"key":"厂长弹幕","name":"🥶┃厂长┃弹幕","type":3,"api":"csp_Czzy","searchable":1,"changeable":1,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/CZ.txt","ext":"https://www.czzy55.com/@@一个分享者" },
 {"key":"横版影院", "name":"🍟┃短剧┃一网", "type":1, "api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable":1, "quickSearch":1, "filterable":1, "categories":["短剧"], "jar": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/jar.php?id=ou;md5;9ea1375c4736da2b76f3f1296f6b276b" }, 
 { "key":"短剧", "name":"🍕┃短剧┃二网", "type":3,"api":"csp_App", "searchable":1, "quickSearch":1, "filterable":0, "ext":"https://zzdj.cc/api.php/provide/vod", "jar": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/jar.php?id=ou;md5;9ea1375c4736da2b76f3f1296f6b276b" },
 {"key":"豪华资源","name":"🍛┃豪华┃资源","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories":["内地剧","香港剧","欧美剧","韩剧","日剧","马泰剧","台湾剧","动画片","中国动漫","日本动漫","欧美动漫","剧情片","战争片","动作片","科幻片","记录片","爱情片","喜剧片","灾难片","悬疑片","犯罪片","大陆综艺","日韩综艺","港台综艺","欧美综艺"]},
@@ -38,12 +38,7 @@
 {"key":"snzy","name":"🎥┃索尼┃资源","type":1,"api":"https://suoniapi.com/api.php/provide/vod/","searchable":1,"filterable":0,"categories":["欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
 {"key":"MV_vod","name":"⚡┃明星┃MV","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
 "searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/MTV.json"},
-{"key":"相声小品","name":"😍┃相声┃小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"ext":"http://tt.iitvba.com/js/相声小品.json"},
-{"key":"YiSo","name":"😹易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
-{"key":"PanSou","name":"🦊盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
-{"key":"UpYun","name":"😻Up搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
-{"key":"PanSearch","name":"🙀盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
-{"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"jar":"http://tv.nxog.top/m/jar.php?id=ou;md5;d437c6e042174f181efd9649a1a33f48","ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"}
+{"key":"相声小品","name":"😍┃相声┃小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"ext":"http://tt.iitvba.com/js/相声小品.json"}, 
 ],
 "lives":[
 {"name":"直播","type":0,"playerType":1,"url":"http://tt.iitvba.com/tv.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
