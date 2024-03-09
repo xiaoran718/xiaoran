@@ -39,6 +39,7 @@
 {"key":"MV_vod","name":"⚡┃明星┃MV","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
 "searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/MTV.json"},
 {"key":"相声小品","name":"😍┃相声┃小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"ext":"http://tt.iitvba.com/js/相声小品.json"}, 
+{"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"jar":"http://tv.nxog.top/m/jar.php?id=ou;md5;d437c6e042174f181efd9649a1a33f48","ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"}
 ],
 "lives":[
 {"name":"直播","type":0,"playerType":1,"url":"http://tt.iitvba.com/tv.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
