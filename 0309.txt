@@ -2,7 +2,7 @@
 "sites":[
 {"key":"南瓜","name":"🎃┃南瓜┃App","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_WoGG","name":"👽玩偶哥哥2","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,
-"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.link/$$$弹"},
+"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.link/$$$弹" },
 {"key":"csp_WoGG","name":"👽玩偶哥哥3","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,
 "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|https://wogg.link/|fhd$$$https://api.wogg.xyz/$$$弹"},
 {"key":"漠","name":"💖┃漠烟┃资源","type":3,"api":"csp_Movie2","ext":"https://raw.gitcode.com/wykj/ys/raw/main/json/Movie5.json","jar": "http://www.wya6.cn/tz/wyog.php" },
