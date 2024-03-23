@@ -1,8 +1,7 @@
 {
 "sites":[
 {"key":"南瓜","name":"🎃┃南瓜┃App","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_WoGG","name":"👽玩偶哥哥666","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,
-"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.link/$$$弹"  },
+{"key": "玩偶","name": "🐱‍🏍玩偶哥哥","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
 {"key":"漠","name":"💖┃漠烟┃资源","type":3,"api":"csp_Movie2","ext":"https://raw.gitcode.com/wykj/ys/raw/main/json/Movie5.json","jar": "http://www.wya6.cn/tz/wyog.php" },
 {"key":"小胡","name":"👹┃小胡┃4K","type":1,"playerType":1,"api":"http://cc.xzam.cn/api.php/provide/vod/","jar":"http://xiaohu.xzam.cn/jar/1.jar;md5;9a9c3fffc0b2d762f1373a63c6d46fec" },
 {"key":"白嫖","name":"🌅┃白嫖┃影视","type":3,"api":"csp_BaiPiao","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://happy.xn--z7x900a.live/jar/PandaQ240309.jar;md5;cddfd3426da27e89c7195ea79637028a"},
