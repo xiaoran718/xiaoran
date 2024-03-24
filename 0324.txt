@@ -4,29 +4,6 @@
 {"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
 {"key":"厂长","name":"📔厂长┃无广","type":3,"api":"csp_Czsapp","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzy77.com/"},
 {"key":"豪华资源","name":"🍛┃豪华┃资源","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories":["内地剧","香港剧","欧美剧","韩剧","日剧","马泰剧","台湾剧","动画片","中国动漫","日本动漫","欧美动漫","剧情片","战争片","动作片","科幻片","记录片","爱情片","喜剧片","灾难片","悬疑片","犯罪片","大陆综艺","日韩综艺","港台综艺","欧美综艺"]},
-//https://gitee.com/dongchenys/liu/raw/master/json/miaobo.json
-    {
-      "key": "秒播影院",
-      "name": "🍓┃秒播┃影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/miaobo.json",
-          "jar": "./jar/dongchen.jar"
-    },
-//https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8
-    {
-    "key":"csp_觅视频",
-    "name":"💖┃影猫┃资源",
-    "type":3,
-    "api":"csp_AppSK",
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":1,
-    "ext": "FbjPcVZY48PN/RIZ5QqOrsp7KctTA8JSVjVJ8fb33R8KUNSIsT3IgxCP9qyzByO7Z2qR3Ggpjn8kS2NlCJx9KFpYWtqe0x/XKTtG3SAclaw3AOm0fS9oLx2taGFszsP3uHWHa4dyHdIm90tKvADyREgKNL3k7R5QNMNVLiUM","jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt"
-    },
  {
     "key":"酷看",
     "name":"😎┃酷看┃App",
