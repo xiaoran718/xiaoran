@@ -12,8 +12,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"./js/miaobo.json",
-          "jar":"./jar/dongchen.jar"
+      "ext":"https://gitee.com/dongchenys/liu/raw/master/json/miaobo.json",
+          "jar":"https://gitee.com/dongchenys/liu/raw/master/jar/dongchen.jar"
     },
     {
     "key":"csp_觅视频",
